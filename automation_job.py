@@ -21,6 +21,15 @@ https://www.indeed.com/jobs?q="data+analyst"+("entry+level"+OR+"fresher"+OR+"jun
 LinkedIn:
 https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20(entry%20level%20OR%20fresher%20OR%20junior)%20-NOT%20senior%20-NOT%20manager
 
+Naukri:
+https://www.naukri.com/entry-level-data-analyst-jobs
+
+Internshala (Internships):
+https://internshala.com/internships/data-analyst-internship
+
+Wellfound (Startups):
+https://wellfound.com/jobs?query=Data%20Analyst%20Junior
+
 
 (Remember to log in to LinkedIn to see full results)
 """
