@@ -16,10 +16,11 @@ def send_email():
 Daily Entry-Level Data Analyst Jobs — {today}
 
 Indeed:
-https://www.indeed.com/jobs?q=entry+level+data+analyst
+https://www.indeed.com/jobs?q="data+analyst"+("entry+level"+OR+"fresher"+OR+"junior")+-senior+-manager+-lead
 
 LinkedIn:
-https://www.linkedin.com/jobs/search/?keywords=entry%20level%20data%20analyst
+https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20(entry%20level%20OR%20fresher%20OR%20junior)%20-NOT%20senior%20-NOT%20manager
+
 
 (Remember to log in to LinkedIn to see full results)
 """
